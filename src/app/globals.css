@@ -1,0 +1,43 @@
+
+@import "tailwindcss";
+
+/* Force slick arrows to show */
+.slick-prev,
+.slick-next {
+  z-index: 50 !important;  /* keep above slides */
+  display: block !important; /* override hidden */
+}
+
+
+
+.slick-prev:before,
+.slick-next:before {
+  color: black !important; /* change to white if your bg is dark */
+  font-size: 30px !important;
+}
+
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #000000;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  overflow-x: hidden;
+}
