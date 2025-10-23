@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "genre": "Electronics",
+    "product_name": "Wireless Headphones",
+    "description": "High-quality Bluetooth headphones with noise cancellation and long battery life.",
+    "image_id": "img_001"
+  },
+  {
+    "id": 2,
+    "genre": "Books",
+    "product_name": "The Art of Coding",
+    "description": "A comprehensive guide to modern programming practices and software design.",
+    "image_id": "img_002"
+  },
+  {
+    "id": 3,
+    "genre": "Home & Kitchen",
+    "product_name": "Smart LED Lamp",
+    "description": "A Wi-Fi-enabled lamp that supports voice control and multiple color modes.",
+    "image_id": "img_003"
+  },
+  {
+    "id": 4,
+    "genre": "Gaming",
+    "product_name": "Mechanical Keyboard",
+    "description": "RGB-backlit mechanical keyboard with tactile switches for optimal gaming performance.",
+    "image_id": "img_004"
+  },
+  {
+    "id": 5,
+    "genre": "Fashion",
+    "product_name": "Minimalist Leather Wallet",
+    "description": "A slim and stylish wallet made from genuine leather, designed for everyday use.",
+    "image_id": "img_005"
+  }
+]
