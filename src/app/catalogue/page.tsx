@@ -2,6 +2,8 @@ import React from 'react'
 import NavCat from '@/components/NavCat'
 import SearchBar from '@/components/SearchBar'
 import ProductTray from '@/components/ProductTray'
+import products from "../../data/DaftarProduk.json";
+import Image from 'next/image'
 
 const page = () => {
   return (
@@ -19,6 +21,26 @@ const page = () => {
 
         <div>tes1</div>
         <div>tes2</div>
+        {products.map((item) => (
+          <div
+            key={item.id}
+            className="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300"
+          >
+            <div className="w-full h-56 relative">
+              <Image
+                src={`/imagefolder/${item.image_id}.jpg`}
+                alt={item.product_name}
+                fill
+                className="object-cover"
+              />
+            </div>
+
+            <div className="p-4">
+              <h2 className="text-xl font-semibold mb-2">{item.product_name}</h2>
+              <p className="text-gray-600 text-sm">{item.description}</p>
+            </div>
+          </div>
+        ))}
         
 
       </div>
