@@ -1,37 +1,1402 @@
 [
   {
     "id": 1,
-    "genre": "Electronics",
-    "product_name": "Wireless Headphones",
-    "description": "High-quality Bluetooth headphones with noise cancellation and long battery life.",
-    "image_id": "img_001"
+    "genre": "Tabung",
+    "product_name": "Oxygen Flowmeter",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
   },
   {
     "id": 2,
-    "genre": "Books",
-    "product_name": "The Art of Coding",
-    "description": "A comprehensive guide to modern programming practices and software design.",
-    "image_id": "img_002"
+    "genre": "Oksigen",
+    "product_name": "Oxygen Concentrator",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
   },
   {
     "id": 3,
-    "genre": "Home & Kitchen",
-    "product_name": "Smart LED Lamp",
-    "description": "A Wi-Fi-enabled lamp that supports voice control and multiple color modes.",
-    "image_id": "img_003"
+    "genre": "PerawatanPasien",
+    "product_name": "IV Stand",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
   },
   {
     "id": 4,
-    "genre": "Gaming",
-    "product_name": "Mechanical Keyboard",
-    "description": "RGB-backlit mechanical keyboard with tactile switches for optimal gaming performance.",
-    "image_id": "img_004"
+    "genre": "Oksigen",
+    "product_name": "Oxygen Concentrator",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
   },
   {
     "id": 5,
-    "genre": "Fashion",
-    "product_name": "Minimalist Leather Wallet",
-    "description": "A slim and stylish wallet made from genuine leather, designed for everyday use.",
+    "genre": "Tabung",
+    "product_name": "Oxygen Flowmeter",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 6,
+    "genre": "Tabung",
+    "product_name": "Nitrogen Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 7,
+    "genre": "PerawatanPasien",
+    "product_name": "Pulse Oximeter",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 8,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Nasal Cannula",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 9,
+    "genre": "Consumable",
+    "product_name": "Adhesive Plaster",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 10,
+    "genre": "PerawatanPasien",
+    "product_name": "Pulse Oximeter",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 11,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Concentrator",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 12,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Nasal Cannula",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 13,
+    "genre": "Consumable",
+    "product_name": "Sterile Gauze",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 14,
+    "genre": "PerawatanPasien",
+    "product_name": "Thermometer",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 15,
+    "genre": "Consumable",
+    "product_name": "Sterile Gauze",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 16,
+    "genre": "Consumable",
+    "product_name": "IV Cannula",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 17,
+    "genre": "PerawatanPasien",
+    "product_name": "Wheelchair",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 18,
+    "genre": "Tabung",
+    "product_name": "Cylinder Trolley",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 19,
+    "genre": "Consumable",
+    "product_name": "IV Cannula",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 20,
+    "genre": "Tabung",
+    "product_name": "Vacuum Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 21,
+    "genre": "elektronik",
+    "product_name": "Portable ECG Device",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 22,
+    "genre": "Tabung",
+    "product_name": "Gas Cylinder Regulator",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 23,
+    "genre": "PerawatanPasien",
+    "product_name": "BP Monitor",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 24,
+    "genre": "PerawatanPasien",
+    "product_name": "Stretcher Trolley",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 25,
+    "genre": "Tabung",
+    "product_name": "Gas Cylinder Regulator",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 26,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Pressure Gauge",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 27,
+    "genre": "Consumable",
+    "product_name": "Latex Gloves",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 28,
+    "genre": "Consumable",
+    "product_name": "Cotton Roll",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 29,
+    "genre": "Consumable",
+    "product_name": "Latex Gloves",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 30,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Flow Splitter",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 31,
+    "genre": "PerawatanPasien",
+    "product_name": "Patient Lifting Hoist",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 32,
+    "genre": "Consumable",
+    "product_name": "Suture Needle",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 33,
+    "genre": "elektronik",
+    "product_name": "Portable ECG Device",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 34,
+    "genre": "PerawatanPasien",
+    "product_name": "Patient Lifting Hoist",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 35,
+    "genre": "PerawatanPasien",
+    "product_name": "Pulse Oximeter",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 36,
+    "genre": "elektronik",
+    "product_name": "Patient Vital Sign Monitor",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 37,
+    "genre": "Oksigen",
+    "product_name": "Humidifier Bottle",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 38,
+    "genre": "elektronik",
+    "product_name": "Patient Vital Sign Monitor",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 39,
+    "genre": "PerawatanPasien",
+    "product_name": "Pulse Oximeter",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 40,
+    "genre": "Consumable",
+    "product_name": "Adhesive Plaster",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 41,
+    "genre": "Tabung",
+    "product_name": "Vacuum Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 42,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Mask",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 43,
+    "genre": "Tabung",
+    "product_name": "Cylinder Trolley",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 44,
+    "genre": "Tabung",
+    "product_name": "CO2 Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 45,
+    "genre": "Consumable",
+    "product_name": "Urine Bag",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 46,
+    "genre": "elektronik",
+    "product_name": "Electrosurgical Unit",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 47,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Mask",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 48,
+    "genre": "PerawatanPasien",
+    "product_name": "IV Stand",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 49,
+    "genre": "Oksigen",
+    "product_name": "Portable Oxygen Kit",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 50,
+    "genre": "Oksigen",
+    "product_name": "Portable Oxygen Kit",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 51,
+    "genre": "PerawatanPasien",
+    "product_name": "Hospital Bed",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 52,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Mask",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 53,
+    "genre": "PerawatanPasien",
+    "product_name": "Stretcher Trolley",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 54,
+    "genre": "elektronik",
+    "product_name": "Electrosurgical Unit",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 55,
+    "genre": "PerawatanPasien",
+    "product_name": "Infusion Pump",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 56,
+    "genre": "PerawatanPasien",
+    "product_name": "Thermometer",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 57,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Flow Splitter",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 58,
+    "genre": "Consumable",
+    "product_name": "Suture Needle",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 59,
+    "genre": "Consumable",
+    "product_name": "Suture Needle",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 60,
+    "genre": "elektronik",
+    "product_name": "Endoscope System",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 61,
+    "genre": "Consumable",
+    "product_name": "Adhesive Plaster",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 62,
+    "genre": "Tabung",
+    "product_name": "Cylinder Trolley",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 63,
+    "genre": "elektronik",
+    "product_name": "Electrosurgical Unit",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 64,
+    "genre": "elektronik",
+    "product_name": "X-Ray Detector",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 65,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Regulator",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 66,
+    "genre": "Consumable",
+    "product_name": "Face Mask",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 67,
+    "genre": "elektronik",
+    "product_name": "X-Ray Detector",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 68,
+    "genre": "PerawatanPasien",
+    "product_name": "Pulse Oximeter",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 69,
+    "genre": "Tabung",
+    "product_name": "CO2 Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 70,
+    "genre": "Tabung",
+    "product_name": "Cylinder Trolley",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 71,
+    "genre": "Tabung",
+    "product_name": "Helium Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 72,
+    "genre": "Oksigen",
+    "product_name": "Wall Oxygen Outlet",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 73,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Pressure Gauge",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 74,
+    "genre": "Tabung",
+    "product_name": "Gas Cylinder Regulator",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 75,
+    "genre": "Tabung",
+    "product_name": "Vacuum Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 76,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Pressure Gauge",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 77,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Concentrator",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 78,
+    "genre": "elektronik",
+    "product_name": "ECG Machine",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 79,
+    "genre": "elektronik",
+    "product_name": "Ultrasound Scanner",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 80,
+    "genre": "Oksigen",
+    "product_name": "Humidifier Bottle",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 81,
+    "genre": "PerawatanPasien",
+    "product_name": "Thermometer",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 82,
+    "genre": "elektronik",
+    "product_name": "Laser Therapy Device",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 83,
+    "genre": "PerawatanPasien",
+    "product_name": "Patient Lifting Hoist",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 84,
+    "genre": "Consumable",
+    "product_name": "Disposable Syringe",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 85,
+    "genre": "elektronik",
+    "product_name": "Defibrillator",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 86,
+    "genre": "PerawatanPasien",
+    "product_name": "Patient Monitor",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 87,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Flow Splitter",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 88,
+    "genre": "PerawatanPasien",
+    "product_name": "Bedside Cabinet",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 89,
+    "genre": "Tabung",
+    "product_name": "Medical Air Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 90,
+    "genre": "Consumable",
+    "product_name": "Blood Collection Tube",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 91,
+    "genre": "elektronik",
+    "product_name": "Laser Therapy Device",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 92,
+    "genre": "PerawatanPasien",
+    "product_name": "IV Stand",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 93,
+    "genre": "PerawatanPasien",
+    "product_name": "BP Monitor",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 94,
+    "genre": "Tabung",
+    "product_name": "CO2 Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 95,
+    "genre": "elektronik",
+    "product_name": "Portable ECG Device",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 96,
+    "genre": "PerawatanPasien",
+    "product_name": "Wheelchair",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 97,
+    "genre": "Oksigen",
+    "product_name": "Humidifier Bottle",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 98,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Hose Pipe",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 99,
+    "genre": "elektronik",
+    "product_name": "Endoscope System",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 100,
+    "genre": "elektronik",
+    "product_name": "Endoscope System",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 101,
+    "genre": "PerawatanPasien",
+    "product_name": "Hospital Bed",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 102,
+    "genre": "PerawatanPasien",
+    "product_name": "Suction Machine",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 103,
+    "genre": "Tabung",
+    "product_name": "Anaesthesia Gas Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 104,
+    "genre": "elektronik",
+    "product_name": "X-Ray Detector",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 105,
+    "genre": "PerawatanPasien",
+    "product_name": "BP Monitor",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 106,
+    "genre": "Consumable",
+    "product_name": "Adhesive Plaster",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 107,
+    "genre": "Tabung",
+    "product_name": "Vacuum Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 108,
+    "genre": "PerawatanPasien",
+    "product_name": "Pulse Oximeter",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 109,
+    "genre": "Tabung",
+    "product_name": "Nitrogen Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 110,
+    "genre": "elektronik",
+    "product_name": "Electrosurgical Unit",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 111,
+    "genre": "Consumable",
+    "product_name": "Disposable Syringe",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 112,
+    "genre": "Tabung",
+    "product_name": "Medical Air Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 113,
+    "genre": "PerawatanPasien",
+    "product_name": "Patient Monitor",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 114,
+    "genre": "Consumable",
+    "product_name": "Blood Collection Tube",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 115,
+    "genre": "Tabung",
+    "product_name": "CO2 Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 116,
+    "genre": "Consumable",
+    "product_name": "Blood Collection Tube",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 117,
+    "genre": "PerawatanPasien",
+    "product_name": "Suction Machine",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 118,
+    "genre": "Consumable",
+    "product_name": "Urine Bag",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 119,
+    "genre": "PerawatanPasien",
+    "product_name": "Thermometer",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 120,
+    "genre": "Consumable",
+    "product_name": "Disposable Syringe",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 121,
+    "genre": "elektronik",
+    "product_name": "Medical Display Monitor",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 122,
+    "genre": "Consumable",
+    "product_name": "Bandage Roll",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 123,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Regulator",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 124,
+    "genre": "Tabung",
+    "product_name": "Helium Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 125,
+    "genre": "Tabung",
+    "product_name": "Helium Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 126,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Regulator",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 127,
+    "genre": "elektronik",
+    "product_name": "Defibrillator",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 128,
+    "genre": "elektronik",
+    "product_name": "Patient Vital Sign Monitor",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 129,
+    "genre": "Tabung",
+    "product_name": "Oxygen Flowmeter",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 130,
+    "genre": "Consumable",
+    "product_name": "IV Cannula",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 131,
+    "genre": "PerawatanPasien",
+    "product_name": "Stretcher Trolley",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 132,
+    "genre": "Tabung",
+    "product_name": "Medical Air Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 133,
+    "genre": "Oksigen",
+    "product_name": "Humidifier Bottle",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 134,
+    "genre": "Tabung",
+    "product_name": "Helium Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 135,
+    "genre": "Consumable",
+    "product_name": "Sterile Gauze",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 136,
+    "genre": "Consumable",
+    "product_name": "IV Cannula",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 137,
+    "genre": "PerawatanPasien",
+    "product_name": "IV Stand",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 138,
+    "genre": "PerawatanPasien",
+    "product_name": "Pulse Oximeter",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 139,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Pressure Gauge",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 140,
+    "genre": "Consumable",
+    "product_name": "Bandage Roll",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 141,
+    "genre": "Oksigen",
+    "product_name": "Wall Oxygen Outlet",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 142,
+    "genre": "elektronik",
+    "product_name": "X-Ray Detector",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 143,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Pressure Gauge",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 144,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Regulator",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 145,
+    "genre": "Consumable",
+    "product_name": "Bandage Roll",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 146,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Concentrator",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 147,
+    "genre": "Consumable",
+    "product_name": "Latex Gloves",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 148,
+    "genre": "Consumable",
+    "product_name": "Disposable Syringe",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 149,
+    "genre": "PerawatanPasien",
+    "product_name": "Patient Lifting Hoist",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 150,
+    "genre": "Oksigen",
+    "product_name": "Wall Oxygen Outlet",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 151,
+    "genre": "Tabung",
+    "product_name": "CO2 Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 152,
+    "genre": "Tabung",
+    "product_name": "Anaesthesia Gas Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 153,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Nasal Cannula",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 154,
+    "genre": "PerawatanPasien",
+    "product_name": "Patient Lifting Hoist",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 155,
+    "genre": "Tabung",
+    "product_name": "Nitrogen Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 156,
+    "genre": "Oksigen",
+    "product_name": "Wall Oxygen Outlet",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 157,
+    "genre": "Consumable",
+    "product_name": "Suture Needle",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 158,
+    "genre": "Consumable",
+    "product_name": "Bandage Roll",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 159,
+    "genre": "Tabung",
+    "product_name": "CO2 Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 160,
+    "genre": "PerawatanPasien",
+    "product_name": "IV Stand",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 161,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Nasal Cannula",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 162,
+    "genre": "Consumable",
+    "product_name": "Suture Needle",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 163,
+    "genre": "Consumable",
+    "product_name": "Bandage Roll",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 164,
+    "genre": "PerawatanPasien",
+    "product_name": "BP Monitor",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 165,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Concentrator",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 166,
+    "genre": "Consumable",
+    "product_name": "Face Mask",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 167,
+    "genre": "elektronik",
+    "product_name": "Medical Display Monitor",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 168,
+    "genre": "PerawatanPasien",
+    "product_name": "Stretcher Trolley",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 169,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Regulator",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 170,
+    "genre": "elektronik",
+    "product_name": "Ultrasound Scanner",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 171,
+    "genre": "Consumable",
+    "product_name": "IV Cannula",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 172,
+    "genre": "Tabung",
+    "product_name": "CO2 Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 173,
+    "genre": "Consumable",
+    "product_name": "Bandage Roll",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 174,
+    "genre": "Consumable",
+    "product_name": "Surgical Blade",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 175,
+    "genre": "Consumable",
+    "product_name": "Face Mask",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 176,
+    "genre": "PerawatanPasien",
+    "product_name": "Stretcher Trolley",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 177,
+    "genre": "PerawatanPasien",
+    "product_name": "IV Stand",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 178,
+    "genre": "Tabung",
+    "product_name": "Oxygen Flowmeter",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 179,
+    "genre": "Consumable",
+    "product_name": "Latex Gloves",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 180,
+    "genre": "PerawatanPasien",
+    "product_name": "Suction Machine",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 181,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Mask",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 182,
+    "genre": "Tabung",
+    "product_name": "Helium Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 183,
+    "genre": "PerawatanPasien",
+    "product_name": "Stretcher Trolley",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 184,
+    "genre": "PerawatanPasien",
+    "product_name": "Bedside Cabinet",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 185,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Nasal Cannula",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 186,
+    "genre": "Tabung",
+    "product_name": "CO2 Cylinder",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 187,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Regulator",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 188,
+    "genre": "Tabung",
+    "product_name": "Gas Cylinder Regulator",
+    "description": "Durable gas storage cylinder designed for safe medical applications.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 189,
+    "genre": "PerawatanPasien",
+    "product_name": "IV Stand",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 190,
+    "genre": "Consumable",
+    "product_name": "Surgical Blade",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 191,
+    "genre": "Consumable",
+    "product_name": "Latex Gloves",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 192,
+    "genre": "elektronik",
+    "product_name": "Endoscope System",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 193,
+    "genre": "Oksigen",
+    "product_name": "Portable Oxygen Kit",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 194,
+    "genre": "PerawatanPasien",
+    "product_name": "IV Stand",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 195,
+    "genre": "elektronik",
+    "product_name": "Medical Display Monitor",
+    "description": "High-precision electronic medical device for clinical use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 196,
+    "genre": "Consumable",
+    "product_name": "Latex Gloves",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 197,
+    "genre": "Oksigen",
+    "product_name": "Oxygen Concentrator",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 198,
+    "genre": "PerawatanPasien",
+    "product_name": "IV Stand",
+    "description": "Essential hospital equipment for daily patient care and monitoring.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 199,
+    "genre": "Consumable",
+    "product_name": "Urine Bag",
+    "description": "Single-use sterile medical supplies ensuring patient hygiene and safety.",
+    "image_id": "img_005"
+  },
+  {
+    "id": 200,
+    "genre": "Oksigen",
+    "product_name": "Wall Oxygen Outlet",
+    "description": "Medical oxygen delivery equipment for hospital and home care use.",
     "image_id": "img_005"
   }
 ]
