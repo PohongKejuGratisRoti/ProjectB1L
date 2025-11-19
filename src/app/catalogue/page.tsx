@@ -27,8 +27,8 @@ const Page = () => {
       </div>
 
       <div className="w-full min-h-screen bg-gray-50 border border-black flex flex-row text-black p-4">
-        <div className="w-64 bg-gray-200 p-4 flex flex-col items-start rounded-md mb-6">
-          Konten di sini
+        <div className="w-64 bg-gray-200 p-4 flex flex-col items-start rounded-md mb-6 mr-2">
+          Filter Anjay
         </div>
 
         <div className="w-full grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6">
