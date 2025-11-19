@@ -8,12 +8,15 @@ import Image from "next/image";
 
 const Page = () => {
   const products = require("@/data/DaftarProduk.json");
+  const [genre, setGenre] = useState("");
   const [query, setQuery] = useState("");
   const filteredProducts = products.filter(
   (p: any) =>
-    p.product_name.toLowerCase().includes(query.toLowerCase()) ||
-    p.genre.toLowerCase().includes(query.toLowerCase())
+    (genre ? p.genre.toLowerCase() === genre.toLowerCase() : true) &&
+    (p.product_name.toLowerCase().includes(query.toLowerCase()) ||
+      p.genre.toLowerCase().includes(query.toLowerCase()))
 );
+
 
 
   return (
@@ -22,13 +25,51 @@ const Page = () => {
       <div className="w-full bg-white h-[10vh] flex flex-row-reverse items-center text-black justify-evenly">
 
         <input type="text" onChange={(e) => setQuery(e.target.value)} className="w-32 border border-black text-black h-8" />
-        <ProductTray />
+        <div>
+          <div className="flex flex-row gap-2">
+  {["Consumable", "PerawatanPasien", "Oksigen", "Elektronik"].map((g) => (
+    <button
+      key={g}
+      onClick={() => setGenre(g)}
+      className={`px-3 py-2 rounded ${
+        genre === g
+          ? "bg-black text-white"
+          : "bg-white text-black hover:bg-gray-300"
+      }`}
+    >
+      {g}
+    </button>
+  ))}
+
+</div>
+        </div>
         <div>Logo Perusahaan</div>
       </div>
 
       <div className="w-full min-h-screen bg-gray-50 border border-black flex flex-row text-black p-4">
-        <div className="w-64 bg-gray-200 p-4 flex flex-col items-start rounded-md mb-6 mr-2">
-          Filter Anjay
+        <div className=" w-64 bg-gray-200 p-4 flex flex-col items-start rounded-md mb-14 mr-2 h-fit">
+          Filter 
+        <div className="flex flex-col gap-2 mt-4">
+          {["Consumable", "PerawatanPasien", "Oksigen", "Elektronik"].map((g) => (
+            <label key={g} className="flex items-center gap-2 cursor-pointer">
+              <input
+                type="checkbox"
+                checked={genre === g}
+                onChange={() => setGenre(genre === g ? "" : g)}
+                className="w-4 h-4"
+              />
+              <span>{g}</span>
+            </label>
+          ))}
+
+          <button
+            onClick={() => setGenre("")}
+            className="mt-2 px-3 py-1 text-sm bg-gray-200 rounded hover:bg-gray-300"
+          >
+            Clear
+          </button>
+        </div>
+
         </div>
 
         <div className="w-full grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6">
